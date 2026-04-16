@@ -2,6 +2,8 @@
 
 Questa guida descrive come installare e avviare automaticamente **WorkTimeTrayTool**, oltre a spiegare dove trovarlo una volta in esecuzione.
 
+<br>
+<br>
 
 ---
 
@@ -13,25 +15,26 @@ Se possiedi già una versione precedente dell’app:
 
 ❌ NON cancellare le altre cartelle ❌ NON rifare la configurazione
 
+<br>
+<br>
 
 ---
 
-
-## 📂 Installazione da zero
+## 📂 Installazione (da zero)
 
 ### 1️⃣ Scarica l’ultima versione
 Apri la pagina delle release:
 
 👉 **https://github.com/WorkTimeTrayTool/WorkTimeTrayTool-Releases/tree/main/releases**
 
-Scarica il file **ZIP** relativo all’ultima versione disponibile.
+Scarica il file **ZIP** relativo all’ultima versione disponibile. Guarda il nome della versione.
 <img width="1822" height="354" alt="image" src="https://github.com/user-attachments/assets/801b0b9d-ed4d-4c58-9795-486feff630de" />
 
 ---
 
 ### 2️⃣ Estrai la cartella
 Una volta scaricato lo ZIP:
-- estrai il contenuto;
+- estrai il contenuto facendo `Estrai in "WorkTimeTrayTool\"`;
 - copia la cartella **WorkTimeTrayTool** in una posizione locale a tua scelta.
 
 Esempi consigliati:

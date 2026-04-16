@@ -4,7 +4,17 @@ Questa guida descrive come installare e avviare automaticamente **WorkTimeTrayTo
 
 ---
 
-## 📂 Installazione
+## 🔄 Aggiornamento
+
+Se possiedi già una versione precedente dell’app:
+
+👉 scarica lo zip e **sostituisci soltanto il file `WorkTimeTrayTool.exe`** nella cartella esistente.
+
+❌ NON cancellare le altre cartelle ❌ NON rifare la configurazione
+
+---
+
+## 📂 Installazione da zero
 
 ### 1️⃣ Scarica l’ultima versione
 Apri la pagina delle release:
@@ -29,15 +39,6 @@ Esempi consigliati:
 
 ---
 
-## 🔄 Aggiornamento
-
-Se possiedi già una versione precedente dell’app:
-
-👉 **sostituisci soltanto il file `WorkTimeTrayTool.exe`** nella cartella esistente.
-
-Non serve riconfigurare nulla.
-
----
 
 ## 🚀 Avvio Automatico con Windows
 

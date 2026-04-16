@@ -4,7 +4,7 @@ Questa guida descrive come installare e avviare automaticamente **WorkTimeTrayTo
 
 ---
 
-## 🔄 Aggiornamento
+## 🔄 Aggiornamento (se hai già l'app installata)
 
 Se possiedi già una versione precedente dell’app:
 
@@ -12,7 +12,9 @@ Se possiedi già una versione precedente dell’app:
 
 ❌ NON cancellare le altre cartelle ❌ NON rifare la configurazione
 
+
 ---
+
 
 ## 📂 Installazione da zero
 

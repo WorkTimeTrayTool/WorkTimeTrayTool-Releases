@@ -2,9 +2,7 @@
 
 Questa guida descrive come installare e avviare automaticamente **WorkTimeTrayTool**, oltre a spiegare dove trovarlo una volta in esecuzione.
 
-<br>
-<br>
-
+---
 ---
 
 ## 🔄 Aggiornamento (se hai già l'app installata)
@@ -15,8 +13,7 @@ Se possiedi già una versione precedente dell’app:
 
 ❌ NON cancellare le altre cartelle ❌ NON rifare la configurazione
 
-<br>
-<br>
+---
 
 ---
 
